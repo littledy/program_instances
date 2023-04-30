@@ -6,6 +6,9 @@
 *.mdl
 *checkpoint
 
+/pytorch_practice/data
+/pytorch_practice/models
+
 *.zip
 
 .vscode
